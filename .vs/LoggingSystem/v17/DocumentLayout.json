@@ -1,29 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\",
+  "WorkspaceRootPath": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\hp\\documents\\growth-tec\\loggingname\\loggingsystem\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\esra alshafi\\source\\repos\\growth-tech-ly\\loggingsystem\\loggingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\hp\\documents\\growth-tec\\loggingname\\loggingsystem\\controllers\\benefittypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\controllers\\benefittypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\esra alshafi\\source\\repos\\growth-tech-ly\\loggingsystem\\loggingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\hp\\documents\\growth-tec\\loggingname\\loggingsystem\\controllers\\contractgroupecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\esra alshafi\\source\\repos\\growth-tech-ly\\loggingsystem\\loggingsystem\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\esra alshafi\\source\\repos\\growth-tech-ly\\loggingsystem\\loggingsystem\\controllers\\mainbenefitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\controllers\\mainbenefitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\esra alshafi\\source\\repos\\growth-tech-ly\\loggingsystem\\loggingsystem\\controllers\\contractgroupecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\controllers\\contractgroupecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\hp\\documents\\growth-tec\\loggingname\\loggingsystem\\controllers\\subbenefitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\esra alshafi\\source\\repos\\growth-tech-ly\\loggingsystem\\loggingsystem\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\esra alshafi\\source\\repos\\growth-tech-ly\\loggingsystem\\loggingsystem\\controllers\\benefittypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\controllers\\benefittypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\esra alshafi\\source\\repos\\growth-tech-ly\\loggingsystem\\loggingsystem\\controllers\\subbenefitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\controllers\\subbenefitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\hp\\documents\\growth-tec\\loggingname\\loggingsystem\\controllers\\sessionsubbenefitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\esra alshafi\\source\\repos\\growth-tech-ly\\loggingsystem\\loggingsystem\\controllers\\sessionsubbenefitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\controllers\\sessionsubbenefitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\hp\\documents\\growth-tec\\loggingname\\loggingsystem\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|c:\\users\\esra alshafi\\source\\repos\\growth-tech-ly\\loggingsystem\\loggingsystem\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75F06B0E-99C0-4CF2-991D-232092244369}|loggingSystem\\LoggingSystem.csproj|solutionrelative:loggingsystem\\controllers\\sessioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,71 +50,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "loggingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Program.cs",
+              "RelativeToolTip": "loggingSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:24:38.005Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainBenefitController.cs",
+              "DocumentMoniker": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\MainBenefitController.cs",
+              "RelativeDocumentMoniker": "loggingSystem\\Controllers\\MainBenefitController.cs",
+              "ToolTip": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\MainBenefitController.cs",
+              "RelativeToolTip": "loggingSystem\\Controllers\\MainBenefitController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAIA8wCUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T12:18:36.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "loggingSystem\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\appsettings.Production.json",
+              "RelativeToolTip": "loggingSystem\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T11:46:46.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "BenefitTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\BenefitTypeController.cs",
+              "RelativeDocumentMoniker": "loggingSystem\\Controllers\\BenefitTypeController.cs",
+              "ToolTip": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\BenefitTypeController.cs",
+              "RelativeToolTip": "loggingSystem\\Controllers\\BenefitTypeController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAApwDEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:44:20.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "loggingSystem\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\appsettings.Development.json",
+              "RelativeToolTip": "loggingSystem\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-10T11:42:44.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ContractController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\ContractController.cs",
+              "DocumentMoniker": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\ContractController.cs",
               "RelativeDocumentMoniker": "loggingSystem\\Controllers\\ContractController.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\ContractController.cs",
+              "ToolTip": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\ContractController.cs",
               "RelativeToolTip": "loggingSystem\\Controllers\\ContractController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAABcAAAAAAAAAAIA8wCMAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-10T08:47:44.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BenefitTypeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\BenefitTypeController.cs",
-              "RelativeDocumentMoniker": "loggingSystem\\Controllers\\BenefitTypeController.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\BenefitTypeController.cs",
-              "RelativeToolTip": "loggingSystem\\Controllers\\BenefitTypeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T08:13:46.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ContractGroupeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\ContractGroupeController.cs",
+              "DocumentMoniker": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\ContractGroupeController.cs",
               "RelativeDocumentMoniker": "loggingSystem\\Controllers\\ContractGroupeController.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\ContractGroupeController.cs",
+              "ToolTip": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\ContractGroupeController.cs",
               "RelativeToolTip": "loggingSystem\\Controllers\\ContractGroupeController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIA8wCUAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:35:09.709Z"
+              "WhenOpened": "2024-11-05T11:35:09.709Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "SubBenefitsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\SubBenefitsController.cs",
+              "DocumentMoniker": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\SubBenefitsController.cs",
               "RelativeDocumentMoniker": "loggingSystem\\Controllers\\SubBenefitsController.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\SubBenefitsController.cs",
+              "ToolTip": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\SubBenefitsController.cs",
               "RelativeToolTip": "loggingSystem\\Controllers\\SubBenefitsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,22 +161,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SessionSubBenefitController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\SessionSubBenefitController.cs",
+              "DocumentMoniker": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\SessionSubBenefitController.cs",
               "RelativeDocumentMoniker": "loggingSystem\\Controllers\\SessionSubBenefitController.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\SessionSubBenefitController.cs",
+              "ToolTip": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\SessionSubBenefitController.cs",
               "RelativeToolTip": "loggingSystem\\Controllers\\SessionSubBenefitController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T11:06:55.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "SessionController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\SessionController.cs",
+              "DocumentMoniker": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\SessionController.cs",
               "RelativeDocumentMoniker": "loggingSystem\\Controllers\\SessionController.cs",
-              "ToolTip": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\Controllers\\SessionController.cs",
+              "ToolTip": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\Controllers\\SessionController.cs",
               "RelativeToolTip": "loggingSystem\\Controllers\\SessionController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T10:57:25.842Z"

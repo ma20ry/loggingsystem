@@ -9181,19 +9181,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\esra alshafi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\LoggingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\LoggingSystem.csproj",
       "projectName": "LoggingSystem",
-      "projectPath": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\LoggingSystem.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\Growth-tec\\loggingName\\loggingSystem\\obj\\",
+      "projectPath": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\LoggingSystem.csproj",
+      "packagesPath": "C:\\Users\\esra alshafi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\esra alshafi\\source\\repos\\Growth-Tech-LY\\loggingSystem\\loggingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\esra alshafi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9201,7 +9201,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Users\\esra alshafi\\source\\repos": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9297,7 +9297,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

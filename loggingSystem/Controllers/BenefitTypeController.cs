@@ -17,10 +17,13 @@ namespace API.Controllers
     public class BenefitType : ControllerBase
     {
         private readonly ISaveFile saveFile;
+        private readonly IConfiguration _configuration;
 
-        public BenefitType(ISaveFile saveFile)
+
+        public BenefitType(ISaveFile saveFile, IConfiguration configuration)
         {
             this.saveFile = saveFile;
+            _configuration = configuration;
         }
 
         // GET: api/File/get-file/{fileName}
@@ -37,7 +40,7 @@ namespace API.Controllers
             // Assign current year and month
             int currentYear = DateTime.Now.Year;
             int currentMonth = DateTime.Now.Month;
-            string filePath = Path.Combine(@"C:\Users\HP\Documents\Growth-tec\BenefitManagment_EmkanHealthExpense\BenefitsManagment\logs",
+            string filePath = Path.Combine(_configuration["Paths:Path_BenefitsManagment"],
                                      currentYear.ToString(),
                                      currentMonth.ToString(),
                                      "BenefitType",

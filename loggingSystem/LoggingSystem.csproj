@@ -30,7 +30,7 @@
   <ItemGroup>
    
     <Reference Include="Commons.HealthExpenseManagement">
-      <HintPath>..\..\..\..\Documents\Growth-tec\UsersManagement_EmkanHealthExpenseManagement\Commons.HealthExpenseManagement\bin\Debug\net8.0\Commons.HealthExpenseManagement.dll</HintPath>
+      <HintPath>..\..\UsersManagement_EmkanHealthExpenseManagement\Commons.HealthExpenseManagement\bin\Debug\net8.0\Commons.HealthExpenseManagement.dll</HintPath>
     </Reference>
   
   </ItemGroup>

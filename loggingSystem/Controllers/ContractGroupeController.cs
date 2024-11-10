@@ -15,10 +15,12 @@ namespace loggingSystem.Controllers
     {
 
         private readonly ISaveFile saveFile;
+        private readonly IConfiguration _configuration;
 
-        public ContractGroupeController(ISaveFile saveFile)
+        public ContractGroupeController(ISaveFile saveFile, IConfiguration configuration)
         {
             this.saveFile = saveFile;
+            _configuration = configuration; 
         }
         [HttpGet("get-file/")]
         public async Task<ActionResult> GetFile([FromQuery] string filterMessage = null,
@@ -33,7 +35,7 @@ namespace loggingSystem.Controllers
             // Assign current year and month
             int currentYear = DateTime.Now.Year;
             int currentMonth = DateTime.Now.Month;
-            string filePath = Path.Combine(@"C:\Users\HP\Documents\Growth-tec\ContractDocument\logs",
+            string filePath = Path.Combine( _configuration["Paths:Path_ContractDocumnet"],
                                      currentYear.ToString(),
                                      currentMonth.ToString(),
                                      "ContractGroupe",
